@@ -1,5 +1,5 @@
 # Overview
-
+Our project aims to detect fire and set an alarm to warn surrounding communities. 
 
 
 ## Contributors
